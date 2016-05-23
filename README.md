@@ -36,6 +36,6 @@ Here are lists of good scholars:
   * Mention all the members of my team
     * Ask for feedback
 
-- [ ] Finish my changes
-- [ ] Push my commits to GitHub
-- [ ] Open a pull request
+- [X] Finish my changes
+- [O] Push my commits to GitHub
+- [V] Open a pull request
