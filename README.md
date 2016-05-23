@@ -37,5 +37,5 @@ Here are lists of good scholars:
     * Ask for feedback
 
 - [X] Finish my changes
-- [O] Push my commits to GitHub
-- [V] Open a pull request
+- [ ] Push my commits to GitHub
+- [ ] Open a pull request
