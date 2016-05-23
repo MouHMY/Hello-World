@@ -22,6 +22,6 @@ git commit
 This site was built using [GitHub Pages](https://pages.github.com/).
 
 Here are lists of good scholars:
--George Washington
--John Adams
--Thomas Jefferson
+- George Washington
+- John Adams
+- Thomas Jefferson
