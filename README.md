@@ -26,16 +26,14 @@ Here are lists of good scholars:
 - John Adams
 - Thomas Jefferson
 
-1. George Washington
-2. John Adams
-3. Thomas Jefferson
+1. Make my changes
+  1. Fix bug
+  2. Improve formatting
+    * Make the headings bigger
+2. Push my commits to GitHub
+3. Open a pull request
+  * Describe my changes
+  * Mention all the members of my team
+    * Ask for feedback
 
-1. Machine learning
-  1. Deep learning
-  2. SVM
-  3. CNN
-    * CRF_CNN
-  
-  4. RNN
-    * CRF_RNN
 
