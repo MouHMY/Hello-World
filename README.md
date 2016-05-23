@@ -30,3 +30,12 @@ Here are lists of good scholars:
 2. John Adams
 3. Thomas Jefferson
 
+1. Machine learning
+  1. Deep learning
+  2. SVM
+  3. CNN
+    * CRF_CNN
+  
+  4. RNN
+    * CRF_RNN
+
